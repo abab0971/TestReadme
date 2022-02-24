@@ -12,7 +12,8 @@
     code (4 spaces indent)
 
 ## TestReadme次標題
-```js
+
+```
 這邊是程式碼
 ```
 
@@ -20,3 +21,24 @@
 >>Quote two sentences
 >>Quote two sentences
 >>>Quote three sentences
+
+# **1. TestReadme撰寫測試**
+
+## 1. TestReadme次標題
+
+### 1. TestReadme次標題
+
+#### 1. TestReadme次標題
+
+##### 1. TestReadme次標題
+
+###### 1. TestReadme次標題
+
+1. TestReadme
+1. TestReadme
+1. TestReadme
+1. TestReadme
+
+# _2. TestReadme撰寫測試_
+
+# **3. TestReadme _撰寫_ 測試**
